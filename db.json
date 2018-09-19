@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Headi Post 2",
+      "categoryId": 1,
+      "body": "Lorem lorem333",
+      "cover": "https://dummyimage.com/600x400/ff5005/ffffff.png"
+    },
+    {
+      "title": "Noveen Post",
+      "body": "Hello Gatsby",
+      "categoryId": 1,
+      "id": 2,
+      "cover": "https://dummyimage.com/600x400/ff5005/ffffff.png"
+    },
+    {
+      "title": "Shaimaa Post",
+      "body": "Hello World",
+      "categoryId": 1,
+      "id": 3,
+      "cover": "https://dummyimage.com/600x400/ff5005/ffffff.png"
+    },
+    {
+      "title": "abc2",
+      "body": "new form",
+      "categoryId": 1,
+      "id": 4,
+      "cover": "https://dummyimage.com/600x400/ff5005/ffffff.png"
+    },
+    {
+      "title": "New Post",
+      "body": "fdsfsfds",
+      "categoryId": 1,
+      "cover": "https://images.pexels.com/photos/67636/rose-blue-flower-rose-blooms-67636.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Uncategorized"
+    }
+  ]
+}
