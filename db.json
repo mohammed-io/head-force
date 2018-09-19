@@ -8,24 +8,10 @@
       "cover": "https://dummyimage.com/600x400/ff5005/ffffff.png"
     },
     {
-      "title": "Noveen Post",
-      "body": "Hello Gatsby",
-      "categoryId": 1,
-      "id": 2,
-      "cover": "https://dummyimage.com/600x400/ff5005/ffffff.png"
-    },
-    {
       "title": "Shaimaa Post",
       "body": "Hello World",
       "categoryId": 1,
       "id": 3,
-      "cover": "https://dummyimage.com/600x400/ff5005/ffffff.png"
-    },
-    {
-      "title": "abc2",
-      "body": "new form",
-      "categoryId": 1,
-      "id": 4,
       "cover": "https://dummyimage.com/600x400/ff5005/ffffff.png"
     },
     {
